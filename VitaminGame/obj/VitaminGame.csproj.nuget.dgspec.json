@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Desktop\\KubraGulgunDemirkaya_G161210019\\VitaminGame\\VitaminGame.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\GitHub\\Vitamin-Game-Form-App\\VitaminGame\\VitaminGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Desktop\\KubraGulgunDemirkaya_G161210019\\VitaminGame\\VitaminGame.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\GitHub\\Vitamin-Game-Form-App\\VitaminGame\\VitaminGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\KubraGulgunDemirkaya_G161210019\\VitaminGame\\VitaminGame.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\GitHub\\Vitamin-Game-Form-App\\VitaminGame\\VitaminGame.csproj",
         "projectName": "VitaminGame",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\KubraGulgunDemirkaya_G161210019\\VitaminGame\\VitaminGame.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\GitHub\\Vitamin-Game-Form-App\\VitaminGame\\VitaminGame.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Desktop\\KubraGulgunDemirkaya_G161210019\\VitaminGame\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\GitHub\\Vitamin-Game-Form-App\\VitaminGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
