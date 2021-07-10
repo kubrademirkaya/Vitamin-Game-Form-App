@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\KubraGulgunDemirkaya_G161210019\KubraGulgunDemirkaya_G161210019\obj\Debug\netcoreapp3.1\VitaminGame.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\KubraGulgunDemirkaya_G161210019\VitaminGame\obj\Debug\netcoreapp3.1\VitaminGame.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\KubraGulgunDemirkaya_G161210019\VitaminGame\bin\Debug\netcoreapp3.1\VitaminGame.exe
+C:\Users\ASUS\Desktop\KubraGulgunDemirkaya_G161210019\VitaminGame\bin\Debug\netcoreapp3.1\VitaminGame.deps.json
+C:\Users\ASUS\Desktop\KubraGulgunDemirkaya_G161210019\VitaminGame\bin\Debug\netcoreapp3.1\VitaminGame.runtimeconfig.json
+C:\Users\ASUS\Desktop\KubraGulgunDemirkaya_G161210019\VitaminGame\bin\Debug\netcoreapp3.1\VitaminGame.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\KubraGulgunDemirkaya_G161210019\VitaminGame\bin\Debug\netcoreapp3.1\VitaminGame.dll
+C:\Users\ASUS\Desktop\KubraGulgunDemirkaya_G161210019\VitaminGame\bin\Debug\netcoreapp3.1\VitaminGame.pdb
+C:\Users\ASUS\Desktop\KubraGulgunDemirkaya_G161210019\VitaminGame\obj\Debug\netcoreapp3.1\VitaminGame.Form1.resources
+C:\Users\ASUS\Desktop\KubraGulgunDemirkaya_G161210019\VitaminGame\obj\Debug\netcoreapp3.1\VitaminGame.Properties.Resources.resources
+C:\Users\ASUS\Desktop\KubraGulgunDemirkaya_G161210019\VitaminGame\obj\Debug\netcoreapp3.1\VitaminGame.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\KubraGulgunDemirkaya_G161210019\VitaminGame\obj\Debug\netcoreapp3.1\VitaminGame.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\KubraGulgunDemirkaya_G161210019\VitaminGame\obj\Debug\netcoreapp3.1\VitaminGame.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\KubraGulgunDemirkaya_G161210019\VitaminGame\obj\Debug\netcoreapp3.1\VitaminGame.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\KubraGulgunDemirkaya_G161210019\VitaminGame\obj\Debug\netcoreapp3.1\VitaminGame.dll
+C:\Users\ASUS\Desktop\KubraGulgunDemirkaya_G161210019\VitaminGame\obj\Debug\netcoreapp3.1\VitaminGame.pdb
+C:\Users\ASUS\Desktop\KubraGulgunDemirkaya_G161210019\VitaminGame\obj\Debug\netcoreapp3.1\VitaminGame.genruntimeconfig.cache
